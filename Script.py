@@ -13,8 +13,9 @@ class script(object):
     SOURCE_TXT = """<b>NOTE:</b>
 
 <b>DEVS:</b>
-- <a href=https://t.me/TeamEvamaria>Team Eva Maria</a>"""
-  <a href=https://t.me/TeamEvamaria>Team Eva Maria</a>
+- <a href=https://t.me/Soulsharper>Amal</a>"""
+
+   SPCL ＣＲＥＤＩＴ 👑 🔥@TeamEvamaria
 
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
